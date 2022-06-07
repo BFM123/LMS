@@ -1,0 +1,22 @@
+body { background: #fff; margin: 0; color: #000; font-size: 15px; line-height: 15px; }
+
+body { font-family: Arial, 'Calibri', Candara,Segoe, "Segoe UI", Optima, Arial, sans-serif, 'Georgia', Verdana; }
+
+.main { width: 70%; border-left: 2px solid #666; margin-left: 100px; padding-left: 30px; padding-bottom: 50px; }
+
+.main a:link { color: #d25400; text-decoration: none; }
+
+.main a:hover { text-decoration: underline; }
+
+.main a:visited { color: #d25400; text-decoration: none; }
+
+.heading { color: #666; font-size: 18px; font-weight: bold; padding-top: 20px; padding-bottom: 20px; display: block; }
+
+.footer { padding-top: 30px; font-size: 11px; font-family: verdana, arial, sans-serif; font-weight: bold; }
+
+.sw { color: #000; display: inline-block; padding-right: 10px; }
+
+.dt { color: #d25400; display: inline-block; padding-right: 10px; }
+
+.it { color: #666; display: inline-block; }
+
